@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\consoleapp1\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\consoleapp1\\consoleapp1\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48121377-E73B-4F57-9B58-505BBE948CC3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Bicycle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Bicycle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:57:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:57:07.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:56:04.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:54:50.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
